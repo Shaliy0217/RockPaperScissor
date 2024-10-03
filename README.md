@@ -9,5 +9,8 @@
 訓練模型：CNN  
 遊戲畫面：PyQt5  
 
+## 執行方式
+    python main.py
+
 ## demo 影片
 https://youtu.be/kSUTtrVddTI
